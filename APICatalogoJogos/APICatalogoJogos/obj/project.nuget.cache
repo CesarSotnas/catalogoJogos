@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "k8McQDn44PynvZ449jnaRvEhup4QWCxCUX4hpXke9M1HOMKJ/PNb7Qw6sAiVeLGOSbKlmdbROYnnEdBqhBTFAw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Hawkeye-BrazilDell15\\Desktop\\workspace\\C#\\Calculator\\APICatalogoJogos\\APICatalogoJogos\\APICatalogoJogos.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
